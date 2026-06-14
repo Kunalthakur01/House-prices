@@ -4,13 +4,13 @@ Here is the README in plain text:
 A machine learning project to predict residential house prices using the Kaggle House Prices: Advanced Regression Techniques dataset. The project covers full data preprocessing, feature encoding, model training with multiple algorithms, and final submission generation.
 
 📁 Project Structure
-
+```
 ├── House_price_predictions.ipynb  # Full ML Pipeline notebook (main)
 ├── train.csv                      # Training dataset
 ├── test.csv                       # Test dataset
 ├── output.csv                     # Final predictions (Kaggle submission)
 └── README.md
-
+```
 📌 Problem Statement
 Predict the final sale price of homes in Ames, Iowa based on 79 explanatory variables describing almost every aspect of residential homes.
 
