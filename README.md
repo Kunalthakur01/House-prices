@@ -17,7 +17,7 @@ Predict the final sale price of homes in Ames, Iowa based on 79 explanatory vari
 🔄 Workflow
 
  House_price_predictions.ipynb (Full ML Pipeline)
-
+```
 Setup — Import pandas, numpy, matplotlib, seaborn
 Load & Merge Data — Combine train.csv and test.csv into one DataFrame for consistent preprocessing
 EDA & Missing Value Analysis — Heatmaps and null summaries
@@ -32,7 +32,7 @@ Evaluate — Compare models using Mean Squared Error (MSE)
 Visualize — Line plot of Original vs Predicted prices
 Generate Submission — Predict with XGBoost on test data, save as output.csv
 
-
+```
 🧰 Technologies Used
 Python 3, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Kaggle/KaggleHub
 
