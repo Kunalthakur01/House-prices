@@ -11,16 +11,16 @@ A **Streamlit web application** is included so users can enter house details and
 ## 🚀 Live Demo
 
 🔗 **Streamlit App:**  
-[House Price Prediction](YOUR_STREAMLIT_APP_URL)
+[House Price Prediction](https://house-prices-dyoe.onrender.com/)
 
 ---
 📊 Dataset
-[Dataset Link]((https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data))
-This project uses the Ames Housing Dataset provided through the Kaggle House Prices competition.
+## 📊 Dataset
 
-The dataset contains information about residential properties and their corresponding sale prices.
+The dataset used in this project is the **House Prices - Advanced Regression Techniques** dataset from Kaggle.
 
-The model learns relationships between property characteristics and the final sale price.
+🔗 [View Dataset on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+
 ## 📌 Project Overview
 
 The goal of this project is to build a regression model capable of predicting house sale prices based on various property features.
